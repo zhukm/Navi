@@ -217,7 +217,7 @@
 
     - name: Stack Overflow
       icon: stack overflow orange
-      style: basic
+      style: red
       url: https://stackoverflow.com/
 
     - name: SegmentFault
@@ -245,9 +245,6 @@
       style: basic
       url: https://cn.udacity.com/
 
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
 
   - name: 娱乐
     links:
@@ -334,11 +331,11 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 计量校园
+  - name: 我的收藏
     links:
-    - name: 北邮官网
+    - name: 计量官网
       style: basic
-      url: https://www.bupt.edu.cn/
+      url: https://www.jiliang.edu.cn/
 
     - name: 本科教务系统
       style: basic
